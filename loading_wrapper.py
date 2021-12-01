@@ -32,6 +32,7 @@ def loading(function):
 
 @loading
 def sleeps():
+    # YOUR FUNCTION HERE
     time.sleep(5)
 
 
